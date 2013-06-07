@@ -1,0 +1,110 @@
+body
+{
+	font-family: "HelveticaNeueBold", "HelveticaNeue-Bold", "Helvetica Neue Bold", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosBold', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif; font-weight:600; font-stretch:normal;
+	background-color: #fefefe;
+	color: #2d2d2d;
+}
+
+h1 
+{
+	font-size: 54px;
+	margin: 0px;
+	padding: 0px;
+}
+
+h3
+{
+	font-size: 25px;
+	padding: 0px;
+	margin: 0px;
+	margin-top: 28px;
+}
+
+h4
+{
+	font-size: 25px;
+	color: #878787;
+	padding: 0px;
+	margin: 0px;
+}
+
+h5
+{
+	font-size: 23px;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 5px;
+}
+
+td 
+{
+	margin: 0;
+	padding: 0;
+}
+
+p
+{
+	font-family: Georgia, serif;
+	font-weight: normal;
+}
+
+img
+{
+	magin: 0px;
+	padding: 0px;
+}
+
+#container
+{
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 893px;
+}
+
+#footer
+{
+	clear: left;
+	width: 635px;
+	font-family: Georgia, serif;
+	font-weight: normal;
+	padding-top: 100px;
+}
+
+#footerLine
+{
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+#foot1, #foot2
+{
+	float: left;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-bottom: 40px;
+}
+
+a
+{
+	color: #2d2d2d;
+	text-decoration: none;
+}
+
+a:hover
+{
+	background-color: #f2dbc4;
+}
+
+a.selected
+{
+	background-color: #d2e6fd;
+}
+
+p a
+{
+	color: #955210;
+	text-decoration: underline;
+}

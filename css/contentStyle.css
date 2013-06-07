@@ -1,0 +1,71 @@
+#indieCade
+{
+	margin-left: 20px;
+}
+
+#imageGrid
+{
+	margin-top: 54px;
+}
+
+#col1, #col2, #col3
+{
+	float: left;
+	margin-top: 0px;
+}
+
+#col1, #foot1
+{
+	width: 290px;
+	margin-right: 20px;
+}
+
+#col2
+{
+	width: 583px;
+}
+
+.contentLeft
+{
+	width: 334px;
+	float:left;
+	display: inline;
+	padding-top: 10px;
+}
+
+.contentRight
+{
+	width: 234px;
+	float:left;
+	display: inline;
+	padding-top: 10px;
+}
+
+.twoCol
+{
+	clear: left;
+	width: 100%;
+	padding-top: 10px;
+}
+
+.inline 
+{
+	display: inline;
+}
+
+ul 
+{
+	font-size: 35px;
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+p
+{
+	margin: 0px;
+	padding: 0px;
+	margin-right: 10px;
+
+}
+
